@@ -1,6 +1,6 @@
 function Header () {
     return (
-        <header>teste</header>
+        <header><a href="/"><img src="/icons_assets/Logo.svg" alt="Logo"/></a></header>
     );
 }
 
